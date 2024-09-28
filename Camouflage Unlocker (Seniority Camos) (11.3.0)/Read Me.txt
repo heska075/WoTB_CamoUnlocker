@@ -17,5 +17,4 @@ Android:
     - Coming soon.
 
 Micropatches:
-
     - Copy and paste the packs folder to C:\Users\[USER]\AppData\Local\wotblitz\. Replace all existing files.
