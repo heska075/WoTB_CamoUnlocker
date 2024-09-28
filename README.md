@@ -3,6 +3,8 @@ This is a modification for the game World of Tanks Blitz.
 Use almost any legendary camouflage without spending gold. This is only visual and not actual. Other players will see a standard camouflage.
 
 ## Installation Guide
+Download the latest version from the Releases tab.
+
 * Steam:
   * Copy and paste the **Data** folder to the **World of Tanks Blitz** folder in your Steam game directory. Replace all existing files.
  
