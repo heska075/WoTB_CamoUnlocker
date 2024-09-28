@@ -1,3 +1,20 @@
+<--- Version 0.4.0 --->
+    - Added the following legendary camouflages to the roster:
+        • M-III-Yoh Bard
+        • Kpz. 07P(E) Mystery
+        • Panther II Omnitron
+        • Conway Plague Doctor
+        • Obj. 268 Lich Lord
+
+    - The following legendary camouflages have been updated to PBR:
+        • M60 Rocketeer
+        • VK 72.01 Rotkopf
+        • FV215b Octopus
+        • FV215b Octopus X
+        • WZ-113G FT Lucky
+        • WZ-113G FT Cute Baby
+
+
 <--- Version 0.3.0 --->
     - Added the following legendary camouflages to the roster:
         • Jg.Pz. Scoop
