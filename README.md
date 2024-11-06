@@ -11,14 +11,6 @@ Download the latest version from the Releases tab.
 * WGC:
   * Copy and paste the **Data** folder to `[DRIVE]:\World_of_Tanks_Blitz_WGC\`. Replace all existing files.
  
-* Microsoft Store:
-  * This method requires [IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php).
-  * Rename **Data** to **packs**.
-  * Copy and paste the **packs** folder to `C:\Users\[USER]\AppData\Local\Packages\7458BE2C.WorldofTanksBlitz_x4tje2y229k00\LocalCache\`. Replace all existing files.
- 
-* Android:
-  * Coming soon...
- 
 * Micropatches:
   * Copy and paste the **packs** folder to `C:\Users\[USER]\AppData\Local\wotblitz\`. Replace all existing files.
 
