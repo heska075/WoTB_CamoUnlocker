@@ -1,6 +1,6 @@
 # WoTB_CamoUnlocker
 This is a modification for the game World of Tanks Blitz.
-Use almost any legendary camouflage without spending any gold. Keep in mind that this will only affect your local game client, other players will not see these legendary camouflages equipped. Instead, they will appear as the following common camos:
+Use almost every legendary camouflage available without spending any gold. Keep in mind that this will only affect your local game client, other players will not see these legendary camouflages equipped. Instead, they will appear as the following common camos:
 * Rising Fury
 * Stellar Shine
 * Venomous Shock
