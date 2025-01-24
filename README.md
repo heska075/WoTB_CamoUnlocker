@@ -26,6 +26,9 @@ Download the latest version from the Releases tab.
  
  This modification will only affect your visuals, other players won't see the legendary camouflage you equipped. Instead, they will be met by you having the camo on that was replaced by the legendary camo you are using.
 
+ ## Unreal Engine Notice
+ This modification will likely be discontinued with the release of the switch to Unreal Engine 5. Until then, the mod is going to receive regular updates after new versions of the game come out for download.
+
  ## Legal Compliance
  This mod was made with respect to game's [EULA](https://legal.eu.wargaming.net/en/eula/). It is a legal modification that does not offer an unfair advantage or change the game mechanics.
 
