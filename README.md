@@ -17,9 +17,9 @@ Download the latest version from the Releases tab.
 * Micropatches (Steam, WGC):
   * Copy and paste the contents of the **Data** folder to `C:\Users\[USER]\AppData\Local\wotblitz\packs`. Replace all existing files.
  
- * Android:
-   * Copy and paste the contents of the **Data** folder to `\storage\emulated\0\Android\data\net.wargaming.wot.blitz\files\packs\`. Replace all existing files and merge existing folders.
-   * The icons used for the mod **will not** work on Android when they haven't been packed into an APK. Everything else will function as intended.
+* Micropatches (Android):
+  * Copy and paste the contents of the **Data** folder to `\storage\emulated\0\Android\data\net.wargaming.wot.blitz\files\packs\`. Replace all existing files and merge existing folders.
+  * The icons used for the mod **will not** work on Android when they haven't been packed into an APK. Everything else will function as intended.
 
  ## In-Game Usage
  After installing the modification, open up the game and select any tank that does have a legendary camouflage by normal. Click on the camo tab and scroll all the way to the top. There you'll find a set of three camouflages, all of which are used to equip a legendary one. Should a tank only have one single legendary camouflage, only the first of these will be useful, the other two will just show your tank without any camo equipped.
