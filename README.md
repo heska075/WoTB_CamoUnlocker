@@ -30,6 +30,4 @@ Download the latest version from the Releases tab.
  This modification will likely be discontinued with the release of the switch to Unreal Engine 5. Until then, the mod is going to receive regular updates after new versions of the game come out for download.
 
  ## Legal Compliance
- This mod was made with respect to game's [EULA](https://legal.eu.wargaming.net/en/eula/). It is a legal modification that does not offer an unfair advantage or change the game mechanics.
-
- The Camouflage Unlocker is an independent development and is neither affiliated with nor endorsed by Wargaming or World of Tanks Blitz. 
+ This mod was made with respect to game's [EULA](https://legal.eu.wargaming.net/en/eula/) and is neither affiliated nor endorsed by Wargaming. It is developed independently. Furthermore, it does not offer any unfair advantage over other players.
