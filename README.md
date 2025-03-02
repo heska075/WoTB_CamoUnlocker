@@ -26,7 +26,7 @@ Download the latest version from the Releases tab.
  
  This modification will only affect your visuals, other players won't see the legendary camouflage you equipped. Instead, they will be met by you having the camo on that was replaced by the legendary camo you are using.
  
-<img src="https://github.com/user-attachments/assets/0b89f919-a465-4541-b484-109b2a74f2ce" alt="Description" style="border-radius: 15px;">
+![Camo Unlocker Example](https://github.com/user-attachments/assets/0b89f919-a465-4541-b484-109b2a74f2ce)
 
 
  ## Unreal Engine Notice
