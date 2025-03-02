@@ -25,6 +25,9 @@ Download the latest version from the Releases tab.
  After installing the modification, open up the game and select any tank that does have a legendary camouflage by normal. Click on the camo tab and scroll all the way to the top. There you'll find a set of three camouflages, all of which are used to equip a legendary one. Should a tank only have one single legendary camouflage, only the first of these will be useful, the other two will just show your tank without any camo equipped.
  
  This modification will only affect your visuals, other players won't see the legendary camouflage you equipped. Instead, they will be met by you having the camo on that was replaced by the legendary camo you are using.
+ 
+<img src="https://github.com/user-attachments/assets/0b89f919-a465-4541-b484-109b2a74f2ce" alt="Description" style="border-radius: 15px;">
+
 
  ## Unreal Engine Notice
  This modification will likely be discontinued with the release of the switch to Unreal Engine 5. Until then, the mod is going to receive regular updates after new versions of the game come out for download.
